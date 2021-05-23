@@ -1,0 +1,2 @@
+Urzadzenie_testowe,COM165
+Zespol,COM6

@@ -1,0 +1,115 @@
+23-04-21 11:10:04 - Zespó³ sterownika o numerze: A514207 i sterownikiem o numerze seryjnym A512964
+23-04-21 11:10:05 - Numer sygnalizacji switch : .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:08 - Przelacznik w pozycji zdalnej .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:08 - **********TEST SYGNALIZACJI**********
+23-04-21 11:10:08 - Zalaczenie sterowania 0
+23-04-21 11:10:09 - Numer sygnalizacji 0 : ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:09 - Zalaczenie sterowania 1
+23-04-21 11:10:09 - Numer sygnalizacji 1 : .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:10 - Zalaczenie sterowania 2
+23-04-21 11:10:10 - Numer sygnalizacji 2 : .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:10 - Zalaczenie sterowania 3
+23-04-21 11:10:11 - Numer sygnalizacji 3 : .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:11 - Zalaczenie sterowania 4
+23-04-21 11:10:12 - Numer sygnalizacji 4 : .. .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:12 - Zalaczenie sterowania 5
+23-04-21 11:10:13 - Numer sygnalizacji 5 : .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:13 - Zalaczenie sterowania 0
+23-04-21 11:10:13 - Numer sygnalizacji 6 : .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. OK
+23-04-21 11:10:14 - Zalaczenie sterowania 0
+23-04-21 11:10:14 - Numer sygnalizacji 7 : ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:14 - Zalaczenie sterowania 1
+23-04-21 11:10:15 - Numer sygnalizacji 8 : .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:15 - Zalaczenie sterowania 2
+23-04-21 11:10:16 - Numer sygnalizacji 9 : .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:16 - Zalaczenie sterowania 3
+23-04-21 11:10:17 - Numer sygnalizacji 10 : .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:17 - Zalaczenie sterowania 4
+23-04-21 11:10:17 - Numer sygnalizacji 11 : .. .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:18 - Zalaczenie sterowania 5
+23-04-21 11:10:18 - Numer sygnalizacji 12 : .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:18 - Zalaczenie sterowania 6
+23-04-21 11:10:19 - Numer sygnalizacji 13 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:19 - Zalaczenie sterowania 7
+23-04-21 11:10:20 - Numer sygnalizacji 14 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:20 - Zalaczenie sterowania 0
+23-04-21 11:10:21 - Numer sygnalizacji 15 : .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. OK
+23-04-21 11:10:21 - Zalaczenie sterowania 1
+23-04-21 11:10:22 - Numer sygnalizacji 16 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. OK
+23-04-21 11:10:22 - Zalaczenie sterowania 2
+23-04-21 11:10:22 - Numer sygnalizacji 17 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. OK
+23-04-21 11:10:22 - Zalaczenie sterowania 3
+23-04-21 11:10:23 - Numer sygnalizacji 18 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. OK
+23-04-21 11:10:23 - Zalaczenie sterowania 4
+23-04-21 11:10:24 - Numer sygnalizacji 19 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. OK
+23-04-21 11:10:24 - Zalaczenie sterowania 5
+23-04-21 11:10:25 - Numer sygnalizacji 20 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. OK
+23-04-21 11:10:25 - Zalaczenie sterowania 6
+23-04-21 11:10:26 - Numer sygnalizacji 21 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. OK
+23-04-21 11:10:26 - Zalaczenie sterowania 7
+23-04-21 11:10:26 - Numer sygnalizacji 22 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## OK
+23-04-21 11:10:27 - Zalaczenie sterowania 0
+23-04-21 11:10:27 - Numer sygnalizacji 23 : ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:27 - Zalaczenie sterowania 1
+23-04-21 11:10:28 - Numer sygnalizacji 24 : .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:28 - Zalaczenie sterowania 2
+23-04-21 11:10:29 - Numer sygnalizacji 25 : .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:29 - Zalaczenie sterowania 3
+23-04-21 11:10:30 - Numer sygnalizacji 26 : .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:30 - Zalaczenie sterowania 4
+23-04-21 11:10:30 - Numer sygnalizacji 27 : .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:31 - Zalaczenie sterowania 5
+23-04-21 11:10:31 - Numer sygnalizacji 28 : .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:31 - Zalaczenie sterowania 6
+23-04-21 11:10:32 - Numer sygnalizacji 29 : .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:32 - Zalaczenie sterowania 7
+23-04-21 11:10:33 - Numer sygnalizacji 30 : .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:33 - Zalaczenie sterowania 0
+23-04-21 11:10:34 - Numer sygnalizacji 31 : .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:34 - Zalaczenie sterowania 1
+23-04-21 11:10:34 - Numer sygnalizacji 32 : .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:35 - Zalaczenie sterowania 2
+23-04-21 11:10:35 - Numer sygnalizacji 33 : .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:35 - Zalaczenie sterowania 3
+23-04-21 11:10:36 - Numer sygnalizacji 34 : .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:36 - Zalaczenie sterowania 4
+23-04-21 11:10:37 - Numer sygnalizacji 35 : .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:37 - Zalaczenie sterowania 5
+23-04-21 11:10:38 - Numer sygnalizacji 36 : .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:38 - Zalaczenie sterowania 6
+23-04-21 11:10:39 - Numer sygnalizacji 37 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:39 - Zalaczenie sterowania 7
+23-04-21 11:10:39 - Numer sygnalizacji 38 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:40 - Zalaczenie sterowania 0
+23-04-21 11:10:40 - Numer sygnalizacji 39 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:40 - Zalaczenie sterowania 1
+23-04-21 11:10:41 - Numer sygnalizacji 40 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:41 - Zalaczenie sterowania 2
+23-04-21 11:10:42 - Numer sygnalizacji 41 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. OK
+23-04-21 11:10:42 - Zalaczenie sterowania 3
+23-04-21 11:10:43 - Numer sygnalizacji 42 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. OK
+23-04-21 11:10:43 - Zalaczenie sterowania 4
+23-04-21 11:10:43 - Numer sygnalizacji 43 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. .. OK
+23-04-21 11:10:44 - Zalaczenie sterowania 5
+23-04-21 11:10:44 - Numer sygnalizacji 44 : .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. ## .. .. .. .. OK
+23-04-21 11:10:44 - **********TEST STEROWAN**********
+23-04-21 11:10:45 - Zalaczenie sterowania 0
+23-04-21 11:10:46 - Numer sterowania 0 : ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:46 - Zalaczenie sterowania 1
+23-04-21 11:10:47 - Numer sterowania 1 : .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:47 - Zalaczenie sterowania 2
+23-04-21 11:10:48 - Numer sterowania 2 : .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:48 - Zalaczenie sterowania 3
+23-04-21 11:10:48 - Numer sterowania 3 : .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:48 - Zalaczenie sterowania 4
+23-04-21 11:10:49 - Numer sterowania 4 : .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:49 - Zalaczenie sterowania 5
+23-04-21 11:10:50 - Numer sterowania 5 : .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:50 - Zalaczenie sterowania 6
+23-04-21 11:10:51 - Numer sterowania 6 : .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:51 - Zalaczenie sterowania 0
+23-04-21 11:10:52 - Numer sterowania 7 : .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:52 - Zalaczenie sterowania 1
+23-04-21 11:10:52 - Numer sterowania 8 : .. .. .. .. .. .. .. .. ## .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. .. OK
+23-04-21 11:10:52 - Zespó³ SN:A514207 ze sterownikiem A512964 przeszed³ POZYTYWNIE test sterowan i sygnalizacji
+Liczba bledow 0
